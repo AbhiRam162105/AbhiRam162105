@@ -3,7 +3,7 @@
 <!-- Animated SVG header goes here - save it as 'header.svg' in your repo -->
 # Yanampally Abhiram Reddy
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Research+Intern+at+IIITM+Gwalior;Design+Lead+at+GDSC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Research+Intern;)](https://git.io/typing-svg)
 
 </div>
 
