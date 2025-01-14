@@ -19,7 +19,7 @@ Integrated Post Graduate student in Information Technology at IIITM Gwalior, foc
 * 🔬 Research Intern specializing in deep learning and medical image analysis
 * 🎨 Design Lead at Google Developer Student Clubs (GDSC)
 * 📫 Reach me at: abhiyanampally@gmail.com
-* 🌐 [LinkedIn](https://linkedin.com/in/yanampallyabhiramreddy) | [Twitter](https://twitter.com/abhiyanampally)
+* 🌐 [LinkedIn](https://linkedin.com/in/yanampallyabhiramreddy)
 
 ## Research Projects
 
