@@ -92,8 +92,6 @@ Docker, Kubernetes, AWS, Azure, MongoDB, PostgreSQL, ChromaDB, Appwrite
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhiRam162105&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiRam162105&layout=compact&theme=radical)
-
 ---
 <p align="center">
   <i>Open to collaborations and research opportunities!</i>
