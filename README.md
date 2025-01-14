@@ -9,7 +9,7 @@
 
 ---
 
-AI/ML Engineer | Research Intern at IIITM Gwalior | Design Lead at GDSC
+AI/ML Engineer | Research Intern
 
 ## About Me
 
