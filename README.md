@@ -97,6 +97,5 @@ Docker, Kubernetes, AWS, Azure, MongoDB, PostgreSQL, ChromaDB, Appwrite
   <i>Open to collaborations and research opportunities!</i>
   <br>
   <a href="https://linkedin.com/in/yanampallyabhiramreddy">LinkedIn</a> •
-  <a href="https://twitter.com/abhiyanampally">Twitter</a> •
   <a href="mailto:abhiyanampally@gmail.com">Email</a>
 </p>
