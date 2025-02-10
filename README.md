@@ -34,6 +34,10 @@ Integrated Post Graduate student in Information Technology at IIITM Gwalior, foc
 - Integrated Flash attention and SentencePiece for efficiency
 - Accepted at IATMSI Conference 2025
 
+## Publications
+
+### [Deep Learning and Regression Framework for Doppler Angle Estimation with XAI Validation](https://ieeexplore.ieee.org/document/10822074)
+Y. A. Reddy, C. Sagar, P. K. Sanki, R. S. Baghel, M. Bhattacharya and B. Jana, "Deep Learning and Regression Framework for Doppler Angle Estimation with XAI Validation," 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Lisbon, Portugal, 2024, pp. 6132-6137, doi: 10.1109/BIBM62325.2024.10822074.
 ## Software Projects
 
 ### 🛡️ Anomaly Detection in Network Security
