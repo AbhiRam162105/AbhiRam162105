@@ -225,15 +225,62 @@
 
 <div align="center">
 
-### 📈 Research Metrics
-🏆 **3 Publications** | 📊 **IEEE BIBM 2024** | ⭐ **IEEE IATMSI 2025** | 🔬 **arXiv Author**
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 📊 Research Metrics
+
+![Publications](https://img.shields.io/badge/Publications-3-gold?style=for-the-badge&logo=bookstack&logoColor=white)
+![IEEE BIBM](https://img.shields.io/badge/IEEE%20BIBM-2024-blue?style=for-the-badge&logo=ieee&logoColor=white)
+![IEEE IATMSI](https://img.shields.io/badge/IEEE%20IATMSI-2025-green?style=for-the-badge&logo=ieee&logoColor=white)
+![arXiv](https://img.shields.io/badge/arXiv-Author-red?style=for-the-badge&logo=arxiv&logoColor=white)
+
+**Impact Score**: Clinical-grade AI with real-world deployment
+
+</td>
+<td width="50%" align="center">
 
 ### 🎯 Key Achievements
-- 🩺 **FDA-aligned medical device development**
-- 🧠 **Clinical-grade AI models** (Dice: 0.96)
-- 🌐 **Multi-institutional collaborations** (AIIMS, NHS, University of Alberta)
-- 📱 **Mobile-optimized deployment** strategies
-- 🔒 **Privacy-preserving ML** implementations
+
+🩺 **FDA-aligned** medical device development  
+🧠 **Clinical-grade** AI models (Dice: 0.96)  
+🌐 **Multi-institutional** collaborations  
+📱 **Mobile-optimized** deployment strategies  
+🔒 **Privacy-preserving** ML implementations  
+
+**Collaborators**: AIIMS Delhi, NHS, University of Alberta
+
+</td>
+</tr>
+</table>
+
+### 🏆 Recognition Highlights
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/medical-heart.png" width="40"/>
+<br><b>Medical AI</b>
+<br><sub>FDA-track development</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="40"/>
+<br><b>Deep Learning</b>
+<br><sub>Clinical deployment</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/research.png" width="40"/>
+<br><b>Research</b>
+<br><sub>3 Publications</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/48/000000/collaboration.png" width="40"/>
+<br><b>Collaboration</b>
+<br><sub>Multi-institutional</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -243,20 +290,63 @@
 
 <div align="center">
 
-> 💡 **Open to research collaborations in Medical AI, Deep Learning, and NLP**  
-> 🔬 **Interested in clinical deployment of AI systems**  
-> 🌍 **Passionate about making AI accessible globally**
+<table>
+<tr>
+<td width="60%" align="center">
 
-### 📬 Get in Touch
+### 🚀 Research Interests
 
-[![Email](https://img.shields.io/badge/Email-abhiyanampally@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:abhiyanampally@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yanampallyabhiramreddy)
-[![arXiv](https://img.shields.io/badge/arXiv-Follow-B31B1B?style=for-the-badge&logo=arxiv)](https://arxiv.org/a/yanampally_a_1.html)
+```mermaid
+graph LR
+    A[Medical AI] --> D[Clinical Impact]
+    B[Deep Learning] --> D
+    C[NLP] --> D
+    D --> E[Global Health Access]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#ffeaa7
+```
+
+**🔬 Open to collaborations in:**
+- Medical AI & Clinical Deployment
+- Federated Learning & Privacy
+- Computer Vision for Healthcare
+- NLP for Medical Applications
+
+</td>
+<td width="40%" align="center">
+
+### 📬 Connect With Me
+
+[![Email](https://img.shields.io/badge/📧_Email-abhiyanampally@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiyanampally@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yanampallyabhiramreddy)
+
+[![arXiv](https://img.shields.io/badge/📄_arXiv-Follow-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/a/yanampally_a_1.html)
+
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbhiRam162105)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=AbhiRam162105&color=6C63FF&style=for-the-badge" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=AbhiRam162105&color=6C63FF&style=flat-square" alt="Profile Views">
 
-*"Building AI systems that save lives and democratize healthcare access"*
+</td>
+</tr>
+</table>
+
+### 💭 Research Philosophy
+
+<blockquote>
+<p align="center">
+<em>"Building AI systems that save lives and democratize healthcare access"</em>
+<br><br>
+<strong>🎯 Mission:</strong> Bridging the gap between cutting-edge AI research and real-world clinical applications
+<br>
+<strong>🌍 Vision:</strong> Making advanced medical diagnostics accessible globally through mobile-optimized AI
+</p>
+</blockquote>
 
 </div>
