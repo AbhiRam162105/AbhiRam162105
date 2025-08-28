@@ -196,13 +196,27 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhiRam162105&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
+</td>
+<td width="50%">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiRam162105&layout=compact&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbhiRam162105&theme=tokyonight&hide_border=true)
 
+</td>
+</tr>
+</table>
 </div>
 
 ---
